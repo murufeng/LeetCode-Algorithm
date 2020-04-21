@@ -26,9 +26,7 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 
 - 第二部分是对于数据结构与算法的总结
 
-![leetcode-zhihu](./assets//leetcode-zhihu.jpg)
 
-（图片来自 leetcode)
 
 其中算法，主要是以下几种：
 
