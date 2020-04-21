@@ -4,7 +4,7 @@
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
 
-[![](https://img.shields.io/badge/公众号-深度学习技术前沿-blueviolet)](#关注我)
+[![](https://img.shields.io/badge/公众号-脑洞前端-blueviolet)](#关注我)
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/qiu-feng-2-80)
 
 ![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=azl397985856.leetcode)
@@ -17,7 +17,7 @@
 
 ## 介绍
 
-leetcode 题解，记录自己的 leetcode 解题之路。
+leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 刷题之路。
 
 本仓库目前分为**两个**部分：
 
