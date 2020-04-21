@@ -7,12 +7,11 @@
 [![](https://img.shields.io/badge/公众号-脑洞前端-blueviolet)](#关注我)
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/qiu-feng-2-80)
 
-![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=azl397985856.leetcode)
-![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=azl397985856.leetcode)
+![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=murufeng.LeetCode-Algorithnm)
+![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=murufeng.LeetCode-Algorithnm)
 
 > 统计数据的时间是从 2020-4-22 21:00 起至今
 
-简体中文 | [English](./README.en.md)
 
 
 ## 介绍
