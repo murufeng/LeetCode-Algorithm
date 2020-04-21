@@ -1,16 +1,16 @@
-# LeetCode-Algorithnm
+# LeetCode-Algorithm
 
 [![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
 
-[![](https://img.shields.io/badge/公众号-脑洞前端-blueviolet)](#pick我)
+[![](https://img.shields.io/badge/公众号-脑洞前端-blueviolet)]()
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/qiu-feng-2-80)
 
-![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=murufeng.LeetCode-Algorithnm)
-![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=murufeng.LeetCode-Algorithnm)
+![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=murufeng.LeetCode-Algorithm)
+![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=murufeng.LeetCode-Algorithm)
 
-[![GitHub stars](https://img.shields.io/github/stars/murufeng/murufeng/LeetCode-Algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/Awesome-AI-algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/Awesome-AI-algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/Awesome-AI-algorithm) [![HitCount](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm.svg)](http://hits.dwyl.io/murufeng/Awesome-AI-algorithm)
+[![GitHub stars](https://img.shields.io/github/stars/murufeng/murufeng/LeetCode-Algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/LeetCode-Algorithm) [![GitHub forks](https://img.shields.io/github/forks/murufeng/LeetCode-Algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/LeetCode-Algorithm) [![HitCount](http://hits.dwyl.io/murufeng/LeetCode-Algorithm.svg)](http://hits.dwyl.io/murufeng/LeetCode-Algorithm)
 
 > 统计数据的时间是从 2020-4-22 21:00 起至今
 
@@ -48,7 +48,6 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 - 字符串：前缀树（字典树） ／ 后缀树
 
 
-
 ## 传送门
 
 ### 一、剑指Offer面试经典题目的解析
@@ -59,5 +58,6 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
  
 
 
-# 关注
+
+
  
