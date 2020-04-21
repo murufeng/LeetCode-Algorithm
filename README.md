@@ -3,7 +3,7 @@
 [![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#关注我)
+
 [![](https://img.shields.io/badge/公众号-深度学习技术前沿-blueviolet)](#关注我)
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/qiu-feng-2-80)
 
@@ -31,9 +31,9 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 其中算法，主要是以下几种：
 
-- 基础技巧：分治、二分、贪心
+- 基础技巧：分治、二分、贪心、双指针
 - 排序算法：快速排序、归并排序、计数排序
-- 搜索算法：回溯、双指针、递归、深度优先遍历，广度优先遍历，二叉搜索树等
+- 搜索算法：二分搜索、回溯、递归、深度优先遍历，广度优先遍历，二叉搜索树等
 - 图论：最短路径、最小生成树
 - 动态规划：背包问题、最长子序列
 
@@ -45,6 +45,8 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 堆：最大堆 ／ 最小堆
 - 树与图：二叉树、二叉搜索树、最近公共祖先、并查集
 - 字符串：前缀树（字典树） ／ 后缀树
+
+
 
 ## 传送门
 
