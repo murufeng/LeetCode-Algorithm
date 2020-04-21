@@ -4,7 +4,7 @@
 [![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
 
 
-[![](https://img.shields.io/badge/公众号-深度学习技术前沿-blueviolet)]
+[![](https://img.shields.io/badge/公众号-深度学习技术前沿-blueviolet)]()
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/qiu-feng-2-80)
 
 ![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=murufeng.LeetCode-Algorithm)
