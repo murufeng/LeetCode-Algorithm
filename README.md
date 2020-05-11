@@ -68,12 +68,13 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
     - [剑指Offer（二十八）：数组中出现次数超过一半的数字](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/4.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
 
  - [剑指Offer（三十）：连续子数组的最大和](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/8.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
+ 
+  - [剑指Offer（五十一）：构建乘积数组](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/9.%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
 
  - 剑指Offer（三十二）：把数组排成最小的数
 
  - 剑指Offer（三十五）：数组中的逆序对
 
- - 剑指Offer（五十一）：构建乘积数组
 
 
 **二、栈和队列**
