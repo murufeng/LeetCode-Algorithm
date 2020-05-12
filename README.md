@@ -68,31 +68,31 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
     - [剑指Offer（二十八）：数组中出现次数超过一半的数字](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/4.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
 
  - [剑指Offer（三十）：连续子数组的最大和](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/8.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
- 
-  - [剑指Offer（五十一）：构建乘积数组](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/9.%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
 
- - 剑指Offer（三十二）：把数组排成最小的数
+ - [剑指Offer（三十二）：把数组排成最小的数](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/10.%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md)
 
  - 剑指Offer（三十五）：数组中的逆序对
+
+ - [剑指Offer（五十一）：构建乘积数组](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/9.%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
 
 
 
 **二、栈和队列**
-- 剑指Offer（五）：用两个栈实现队列
+- [剑指Offer（五）：用两个栈实现队列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/2.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E6%9D%A5%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)
 
 - 剑指Offer（二十）：包含min函数的栈
 
-- 剑指Offer（二十一）：栈的压入、弹出序列
+- [剑指Offer（二十一）：栈的压入、弹出序列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/1.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
 
 **三、链表**
 
-- 剑指Offer（三）：从尾到头打印链表
+- [剑指Offer（三）：从尾到头打印链表](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%93%BE%E8%A1%A8/1.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
 
-- 剑指Offer（十四）：链表中倒数第k个结点
+- [剑指Offer（十四）：链表中倒数第k个结点](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%93%BE%E8%A1%A8/2.%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACK%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 
-- 剑指Offer（十五）：反转链表
+- [剑指Offer（十五）：反转链表](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%93%BE%E8%A1%A8/3.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
 
-- 剑指Offer（十六）：合并两个排序的链表
+- [剑指Offer（十六）：合并两个排序的链表](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%93%BE%E8%A1%A8/4.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.md)
 
 - 剑指Offer（二十五）：复杂链表的复制
 
@@ -121,29 +121,29 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
  - 剑指Offer（五十三）：表示数值的字符串
 
 **五、二叉树**
-- 剑指Offer（四）：重建二叉树
+- [剑指Offer（四）：重建二叉树](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/1.%20%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-- 剑指Offer（十七）：树的子结构
+- [剑指Offer（十七）：树的子结构](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/2.%20%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.md)
 
-- 剑指Offer（十八）：二叉树的镜像
+- [剑指Offer（十八）：二叉树的镜像](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/3.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
 
-- 剑指Offer（二十二）：从上往下打印二叉树
+- [剑指Offer（二十二）：从上往下打印二叉树](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/4.%20%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-- 剑指Offer（二十四）：二叉树中和为某一值的路径
+- [剑指Offer（二十四）：二叉树中和为某一值的路径](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/5.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84.md)
 
-- 剑指Offer（三十八）：二叉树的深度
+- [剑指Offer（三十八）：二叉树的深度](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/6.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
 
-- 剑指Offer（三十九）：平衡二叉树
+- [剑指Offer（三十九）：平衡二叉树](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/7.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-- 剑指Offer（五十七）：二叉树的下一个结点
+- [剑指Offer（五十七）：二叉树的下一个结点](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/8.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 
-- 剑指Offer（五十八）：对称的二叉树
+- [剑指Offer（五十八）：对称的二叉树](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/9.%20%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-- 剑指Offer（五十九）：按之字顺序打印二叉树
+- [剑指Offer（五十九）：按之字顺序打印二叉树](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/10.%E6%8C%89%E4%B9%8B%E5%AD%97%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-- 剑指Offer（六十）：把二叉树打印成多行
+- [剑指Offer（六十）：把二叉树打印成多行](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/11.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E6%88%90%E5%A4%9A%E8%A1%8C.md)
 
-- 剑指Offer（六十一）：序列化二叉树
+- [剑指Offer（六十一）：序列化二叉树](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91/12.%20%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 
 **六、二叉搜索树**
@@ -154,13 +154,13 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 - 剑指Offer（六十二）：二叉搜索树的第k个结点
 
 **七、递归**
-- 剑指Offer（七）：裴波那契数列
+- [剑指Offer（七）：裴波那契数列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%80%92%E5%BD%92/1.%E8%A3%B4%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
 
-- 剑指Offer（八）：跳台阶
+- [剑指Offer（八）：跳台阶](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%80%92%E5%BD%92/2.%20%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
 
-- 剑指Offer（九）：变态跳台阶
+- [剑指Offer（九）：变态跳台阶](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%80%92%E5%BD%92/3.%20%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6.md)
 
-- 剑指Offer（十）：矩形覆盖
+- [剑指Offer（十）：矩形覆盖](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%80%92%E5%BD%92/4.%20%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.md)
 
 **八、回溯法**
 - 剑指Offer（六十五）：矩阵中的路径
