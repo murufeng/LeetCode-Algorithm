@@ -147,7 +147,7 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 
 
 **六、二叉搜索树**
-- 剑指Offer（二十三）：二叉搜索树的后序遍历序列
+- [剑指Offer（二十三）：二叉搜索树的后序遍历序列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/1.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
 
 - 剑指Offer（二十六）：二叉搜索树与双向链表
 
