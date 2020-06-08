@@ -7,10 +7,6 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/qiu-feng-2-80)
 
 
-![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=murufeng.LeetCode-Algorithm)
-![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=murufeng.LeetCode-Algorithm)
-
-
 [![GitHub stars](https://img.shields.io/github/stars/murufeng/LeetCode-Algorithm.svg?style=social&label=Stars)](https://github.com/murufeng/LeetCode-Algorithm)
 [![GitHub forks](https://img.shields.io/github/forks/murufeng/LeetCode-Algorithm.svg?style=social&label=Forks)](https://github.com/murufeng/LeetCode-Algorithm)
 [![HitCount](http://hits.dwyl.io/murufeng/LeetCode-Algorithm.svg)](http://hits.dwyl.io/murufeng/LeetCode-Algorithm)
