@@ -178,7 +178,7 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 
 - 剑指Offer（三十三）：丑数
 
-- 剑指Offer（四十一）：和为S的连续正数序列
+- [剑指Offer（四十一）：和为S的连续正数序列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E5%85%B6%E4%BB%96/7.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md)
 
 - [剑指Offer（四十二）：和为S的两个数字](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E5%85%B6%E4%BB%96/6.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
 
