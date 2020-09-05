@@ -210,6 +210,6 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
  - [递归、回溯](https://github.com/murufeng/LeetCode-Algorithm/tree/master/LeetCode%E9%A2%98%E8%A7%A3/%E5%9B%9E%E6%BA%AF%E6%B3%95)
  - 贪心算法
  - 双指针
- - 动态规划
+ - [动态规划](https://github.com/murufeng/LeetCode-Algorithm/tree/master/LeetCode%E9%A2%98%E8%A7%A3/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
  - 图
  
