@@ -69,7 +69,7 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 
  - [剑指Offer（三十二）：把数组排成最小的数](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/10.%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md)
 
- - 剑指Offer（三十五）：数组中的逆序对
+ - [剑指Offer（三十五）：数组中的逆序对](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/11.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.md)
 
  - [剑指Offer（五十一）：构建乘积数组](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E6%95%B0%E7%BB%84/9.%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
 
@@ -147,9 +147,9 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 **六、二叉搜索树**
 - [剑指Offer（二十三）：二叉搜索树的后序遍历序列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/1.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.md)
 
-- 剑指Offer（二十六）：二叉搜索树与双向链表
+- [剑指Offer（二十六）：二叉搜索树与双向链表](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/26.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
 
-- 剑指Offer（六十二）：二叉搜索树的第k个结点
+- [剑指Offer（六十二）：二叉搜索树的第k个结点](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/62.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 
 **七、递归**
 - [剑指Offer（七）：裴波那契数列](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E9%80%92%E5%BD%92/1.%E8%A3%B4%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
@@ -182,7 +182,7 @@ leetcode 与 剑指Offer面试 题解，记录自己的 数据结构与算法 �
 
 - [剑指Offer（四十二）：和为S的两个数字](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E5%85%B6%E4%BB%96/6.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
 
-- 剑指Offer（四十五）：扑克牌顺子
+- [剑指Offer（四十五）：扑克牌顺子](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E5%85%B6%E4%BB%96/61.%20%E6%89%91%E5%85%8B%E7%89%8C%E4%B8%AD%E7%9A%84%E9%A1%BA%E5%AD%90.md)
 
 - [剑指Offer（四十六）：孩子们的游戏（圆圈中最后剩下的数）](https://github.com/murufeng/LeetCode-Algorithm/blob/master/%E5%89%91%E6%8C%87Offer%E7%B3%BB%E5%88%97/%E5%85%B6%E4%BB%96/10.%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F.md)
 
